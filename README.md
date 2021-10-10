@@ -1,4 +1,4 @@
-# About me
+# About Me
 Here is what I learned in Java.
 
 Soon I will start Android and Kotlin throttling.

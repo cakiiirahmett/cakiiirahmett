@@ -1,7 +1,7 @@
 # About Me
 Here is what I learned in Java.
 
-Soon I will start Android and Kotlin throttling.
+I will start learning Android and Kotlin soon.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> Android 

@@ -1,7 +1,7 @@
-# Hakkımda
-Java'da Öğrendiklerimi Buraya Aktarıyorum.
+# About me
+Here is what I learned in Java.
 
-Yakında Zamanda Android Ve Kotlin Kısmına Başlıyacağım
+Soon I will start Android and Kotlin throttling.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> Android 
